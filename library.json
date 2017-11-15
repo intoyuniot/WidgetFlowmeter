@@ -1,0 +1,17 @@
+{
+    "name": "WidgetFlowmeter",
+    "version": "1.0.0",
+    "keywords": "Widget,Flowmeter",
+    "description": "流量计应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetFlowmeter.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
